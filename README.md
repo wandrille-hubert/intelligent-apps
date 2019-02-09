@@ -19,7 +19,7 @@
 		- Microsoft.Bot.Configuration
 * Speech API updated from version 0.6 to version 1.2.
 
-[Reference master README file](../tree/master)
+[Reference master README file](../master/README.md)
 
 # Activate Azure with Intelligent Apps
 There are five proof of concept applications in this repo written to illustrate how to augment existing applications with Microsoft Cognitive Services and Bot Framework to add intelligence as well as using other services in the Azure platform.
