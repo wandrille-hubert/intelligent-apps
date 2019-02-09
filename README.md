@@ -1,7 +1,8 @@
 ## February 2019 Updates
 **Contoso Helpdesk Chat Bot**
 * Bot framework updated from version 3 to version 4.
-	- updated Microsoft.Bot.Builder nuget package to v4.2.2
+	- updated packages:
+		- Microsoft.Bot.Builder to v4.2.2
 	- added packages:
 		- Microsoft.Bot.Builder.Dialogs
 		- Microsoft.Bot.Builder.Integration.AspNet.WebApi
@@ -9,7 +10,8 @@
 
 **Fabrikam Investment Bank Customer Service**
 * Bot framework updated from version 3 to version 4.
-	- updated Microsoft.Bot.Builder nuget package to v4.2.2
+	- updated packages:
+		- Microsoft.Bot.Builder to v4.2.2
 	- added packages:
 		- Microsoft.Bot.Builder.AI.Luis
 		- Microsoft.Bot.Builder.Dialogs
