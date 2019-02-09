@@ -1,4 +1,4 @@
-## February 2019 Updates
+### February 2019 Updates
 **Contoso Helpdesk Chat Bot**
 * Bot framework updated from version 3 to version 4.
 	- updated packages:
